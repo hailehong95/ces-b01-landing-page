@@ -1,0 +1,46 @@
+============================
+THÔNG TIN CHUYÊN GIA
+============================
+
+Tên: Lê Hồng Hải
+Định vị: Chuyên gia AI & Tự động hóa
+Vai trò: Founder & CEO tại CES Global
+Chuyên môn: Ứng dụng AI vào kinh doanh, tự động hóa quy trình, branding bằng AI
+
+============================
+GIẢI PHÁP & DỊCH VỤ
+============================
+
+1. MCP Server (Model Context Protocol)
+   - Triển khai server AI tùy chỉnh cho doanh nghiệp
+   - Tích hợp các mô hình AI vào hệ thống hiện có
+   - Tối ưu hiệu suất và bảo mật
+
+2. N8N AI Automation
+   - Xây dựng workflow tự động hóa bằng N8N
+   - Kết nối AI với các công cụ kinh doanh (CRM, Email, Zalo, v.v.)
+   - Tự động hóa chăm sóc khách hàng, marketing, vận hành
+
+3. Đào tạo AI Branding
+   - Hướng dẫn sử dụng AI để xây dựng thương hiệu cá nhân
+   - Tạo nội dung, hình ảnh, video bằng AI
+   - Chiến lược branding đa nền tảng
+
+============================
+KHÓA HỌC NỔI BẬT
+============================
+
+Khóa K89 - Agentic AI
+- Thời lượng: 12 buổi
+- Hình thức: Online qua Zoom
+- Nội dung: Xây dựng AI Agent tự chủ, ứng dụng thực tế vào kinh doanh
+- Đối tượng: Doanh nhân, freelancer, marketer muốn ứng dụng AI
+- Kết quả: Có thể tự xây dựng AI Agent phục vụ công việc
+
+============================
+LIÊN HỆ
+============================
+
+Email: lehonghai@example.com
+Zalo: 0123456789
+Website: cesglobal.vn
